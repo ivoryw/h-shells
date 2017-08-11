@@ -1,0 +1,6 @@
+build/
+dist/
+poly.cpython*
+.eggs/
+.DS_Store
+.swp
